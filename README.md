@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nana-kwame247&show_icons=true&locale=en&layout=compact" alt="nana-kwame247" /></p>
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nana-kwame247&show_icons=true&locale=en" alt="nana-kwame247" /></p>
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
